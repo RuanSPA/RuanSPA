@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estagiando em Data Science e especialmente em BI
-- 🌱 Estudo Analise e desenvolvimento de sistemas e faço curso sobre SQL/Typescript
+- 🌱 Estudo Analise e desenvolvimento de sistemas e atualmente estou fazendo mais cursos sobre a área onde desejo trabalhar que é data analysis
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
