@@ -1,14 +1,11 @@
 ### Eaeee!!! Eu sou o Ruan
 
 
-- 🔭 Atualmente estou estagiando em Data Science e especialmente em BI
+- 🔭 Atualmente trabalho na NuvemDatacom, sou analista de suporte T.I Pleno / em treinamento DBA ORACLE/SQL SERVER
 - 🌱 Estudo Analise e desenvolvimento de sistemas e atualmente estou fazendo mais cursos sobre a área onde desejo trabalhar que é data analysis
 - 😄 Pronouns: Ele/Dele
 
-<div align="center">
-  <a href="https://github.com/ruanspa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanspa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
