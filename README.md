@@ -1,7 +1,7 @@
 ### Eaeee!!! Eu sou o Ruan
 
 
-- 🔭 Atualmente trabalho na NuvemDatacom, sou analista de suporte T.I Pleno / em treinamento DBA ORACLE/SQL SERVER
+- 🔭 Sou analista de suporte T.I Pleno / em treinamento DBA ORACLE/SQL SERVER
 - 🌱 Estudo Analise e desenvolvimento de sistemas e atualmente estou fazendo mais cursos sobre a área onde desejo trabalhar que é data analysis
 - 😄 Pronouns: Ele/Dele
 
